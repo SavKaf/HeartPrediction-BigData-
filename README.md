@@ -1,6 +1,6 @@
-# HeartPrediction
+# Heart Prediction
 
-As part of the AIVC Master's "Big Data Management and Visualization" course at UNIWA, I did a data analysis and forecasting project.
+As part of the AIVC Master's at "Big Data Management and Visualization" course at UNIWA, I did a data analysis and forecasting project.
 
 - The classification goal is to predict whether the patient has 10-year risk of future coronary heart disease (CHD).
 The dataset provides the patients’ information. It includes over 4.238 records and 15 attributes.
